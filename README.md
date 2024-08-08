@@ -27,5 +27,5 @@ As a data analyst, perform the following tasks
 
 ➡️ In this project, we have followed Snowfall data modeling method
 
-![Screenshot (116)](https://github.com/user-attachments/assets/06e37fa3-ccfe-4016-a056-c9fac44a7522)
+
 
