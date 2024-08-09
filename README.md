@@ -1,5 +1,7 @@
 # Power_BI_Project-Business_Insight
 The project was a part of the Power BI course offered by Codebasics.io 
+
+[View live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDk3ZDFjM2YtNDg3Ny00ZmQ0LTgwMTQtMjc1MDdkNmU4OGIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 # Provide Insights to Management In Consumer Goods Domain
 AtliQ Hardware's is a consumer goods electronics company having operations in various countries.
 
