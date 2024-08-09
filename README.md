@@ -24,10 +24,3 @@ As a data analyst, perform the following tasks
 * Excel
 * Dax Language
 
-## Data Model
-➡️ Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model
-
-➡️ In this project, we have followed Snowfall data modeling method
-
-
-
